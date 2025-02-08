@@ -1,4 +1,11 @@
+## Óla eu sou Mário Signorelli Bem vindo
 
+
+
+- 🔭 Atualmente não trabalho na áre e prucuro por oportunidades de aprimorar meus conhecimentos
+- 📫 signorelii2308@gmail.com
+- 😄 Pronouns: Ele você
+- 💻Tecnologias que melhor desempenho HTML5, CSS3, Saas , JAVASCRIPT, C# , SQL-SERVER E OROCLE-DATABASE 
 <div>
 <a href="https://github.com/Mariosignorelli">
 </div>
